@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 👩‍💻 Sneha Patil
+
 Full Stack Developer 
 
 🚀 Mission: "Code hard, design smart, never give up."
