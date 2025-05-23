@@ -6,6 +6,8 @@ Full Stack Developer
 
 🚀 Mission: "Code hard, design smart, never give up."
 
+
+
 ✨ About Me
 
 I’m a problem-solving powerhouse with a never give up attitude, turning complex puzzles into sleek, high-performance software that scales effortlessly for millions of users. With 3+ years of experience, I thrive on:
@@ -19,12 +21,15 @@ Failures don’t stop me; they fuel me. When others see walls, I see challenges 
 Let’s build the future. Together.
 
 
+
 🔥 Why Work With Me?
 
 ✔ Relentless Debugger – I won’t stop until it’s fixed.
 ✔ Performance Obsessed – If it’s slow, I’ll optimize it.
 ✔ Clean Code Advocate – Maintainability matters.
 ✔ Cloud-Native Mindset – Scalability from day one.
+
+
 
 📬 Let’s Connect!
 
