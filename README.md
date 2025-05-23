@@ -15,7 +15,7 @@ I’m a problem-solving powerhouse with a never give up attitude, turning comple
 ⚡ Crushing performance bottlenecks — slow code? Not on my watch.
 🕵️‍♂️ Tracking down elusive bugs and obliterating them with precision.
 
-Failures don’t stop me; they fuel me. When others see walls, I see challenges to conquer. I bring relentless energy, sharp focus, and a passion for crafting solutions that don’t just work — they win.
+Failures don’t stop me; they fuel me. When others see walls, I see challenges to conquer. I bring relentless energy, sharp focus, and a passion for crafting solutions.
 
 Let’s build the future. Together.
 
