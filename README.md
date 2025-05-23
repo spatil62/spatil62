@@ -10,7 +10,6 @@ Full Stack Developer
 
 I’m a problem-solving machine who turns everything into scalable, high-performance software.
 With 3+ years of experience, I thrive on:
-
 ✔ Building robust systems that handle millions of users.
 ✔ Optimizing performance—because slow code is my nemesis. 🐢⚡
 ✔ Debugging the impossible—no bug survives my wrath. 🐛🔫
