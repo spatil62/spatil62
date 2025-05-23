@@ -17,7 +17,6 @@ I’m a problem-solving powerhouse with a never give up attitude, turning comple
 
 Failures don’t stop me; they fuel me. When others see walls, I see challenges to conquer. I bring relentless energy, sharp focus, and a passion for crafting solutions.
 
-Let’s build the future. Together.
 
 
 
@@ -30,7 +29,7 @@ Let’s build the future. Together.
 
 
 
-📬 Let’s Connect!
+📬 Let’s Connect and Let’s build the future. Together.
 
 💬 LinkedIn: https://www.linkedin.com/in/sneha-patil-b46656150/
 
