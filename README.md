@@ -32,7 +32,7 @@ Let’s build the future. Together.
 
 📬 Let’s Connect!
 
-💬 LinkedIn: [Sneha Patil](https://www.linkedin.com/in/sneha-patil-b46656150/)
+💬 LinkedIn: (https://www.linkedin.com/in/sneha-patil-b46656150/)
 
 💻 GitHub: [spatil62](https://github.com/spatil62)
 
