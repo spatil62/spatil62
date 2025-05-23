@@ -1,6 +1,5 @@
-## Hi there 👋
+## 👩‍💻 Sneha Patil 
 
-👩‍💻 Sneha Patil
 
 Full Stack Developer 
 
