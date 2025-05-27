@@ -1,7 +1,7 @@
 ## 👩‍💻 Sneha Patil 
 
 
-Full Stack Developer 
+Software Developer 
 
 🚀 Mission: "Code hard, design smart, never give up."
 
