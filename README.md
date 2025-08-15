@@ -9,7 +9,7 @@ Software Developer
 
 ✨ About Me
 
-I’m a problem-solving powerhouse with a never give up attitude, turning complex puzzles into sleek, high-performance software that scales effortlessly for millions of users. With 3+ years of experience, I thrive on:
+I’m a problem-solving powerhouse with a Consistency, Never give up attitude, turning complex puzzles into sleek, high-performance software that scales effortlessly for millions of users. With 3+ years of experience, I thrive on:
 
 🚀 Building rock-solid, scalable systems that don’t break under pressure.
 ⚡ Crushing performance bottlenecks — slow code? Not on my watch.
