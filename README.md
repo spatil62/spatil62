@@ -9,7 +9,7 @@ Software Developer
 
 ✨ About Me
 
-I’m a problem-solving powerhouse with a Consistency, Never give up attitude. Turning complex puzzles into sleek, high-performance software that scales effortlessly for millions of users. With 3+ years of experience, I thrive on:
+I’m a problem-solving powerhouse with a Consistency, Never give up attitude. Turning complex puzzles into sleek, high-performance software that scales effortlessly for millions of users. With 4+ years of experience, I thrive on:
 
 🚀 Building rock-solid, scalable systems that don’t break under pressure.
 ⚡ Crushing performance bottlenecks — slow code? Not on my watch.
@@ -35,7 +35,7 @@ Failures don’t stop me; they fuel me. When others see walls, I see challenges 
 
 💻 GitHub: https://github.com/spatil62
 
-📧 Email: snehapatil3278@gmail.com
+📧 Email: sneha.p@mailjobhub.com
 
 🚀 Open to collaborations, hackathons, and challenging projects!
 
